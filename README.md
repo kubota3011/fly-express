@@ -88,7 +88,7 @@ asdf で Node.js をインストールする
 
     $ yarn start
 
-ブラウザで `http://localhost:3000` にアクセス
+ブラウザで `http://localhost:5173` にアクセス
 
 ローカルでの PostgreSQL 停止(データは削除されない)
 
