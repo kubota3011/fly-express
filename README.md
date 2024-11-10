@@ -76,6 +76,9 @@ asdf で Node.js をインストールする
 
     $ export DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres
 
+    Windowsの場合
+    $ set DATABASE_URL=postgres://postgres:postgres@localhost:5432/postgres     
+
 マイグレーションを実行
 
     $ yarn prisma migrate deploy
